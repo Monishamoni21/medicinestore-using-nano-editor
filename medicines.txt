@@ -1,0 +1,5 @@
+101,Paracetamol,50,100
+102,Aspirin,40,150
+103,Ibuprofen,60,200
+104,Amoxicillin,120,50
+105,Cetirizine,30,80
